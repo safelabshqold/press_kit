@@ -41,4 +41,4 @@ Safe was co-founded by [Mark Music](https://twitter.com/markmusic2727), currentl
 
 ### Any Questions?
 
-If you have any questions at all, please don't hesitate to reach out. We'd be happy to answer anything!
+If you have any questions at all, please don't hesitate to [reach out](mailto:markmusic999@gmail.com). We'd be happy to answer anything!
