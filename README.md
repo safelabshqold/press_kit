@@ -1,4 +1,5 @@
-<h1 align='center'>📄 Safe Labs Press Kt</h1>
+<h1 align='center'>
+  Safe Labs Press Kt</h1>
 
 ### What exactly is Safe?
 
@@ -25,3 +26,19 @@ One of Safe's primary strengths is the ability to do everything at once. With th
 - __Privacy Focused__ | Safe will never sell or lend user's data to a third party (anyone really). The user will always decide what happens with their data.
 
 - __Multiple Device Inclusion__ | Safe allows for multiple devices to maximize use of the app. This way, users will never have to worry about not having a way to document an incident.
+
+### Media
+
+All Safe logos and app screenshots can be found [here](https://drive.google.com/drive/folders/1qJTS4dfpHhbLoazM7SphM9EldVI1pApv).
+
+### Pricing
+
+Safe is free of charge. No in-app-purchases or subscriptions. This could potentially change but for now, just sign up [here](https://markmusic999.typeform.com/to/jJ7yDJ9T). and give us feedback. That is more to us valuable than money.
+
+### About Us
+
+Safe was co-founded by [Mark Music](https://twitter.com/markmusic2727), currently CEO, and [Filippo Fonseca](https://twitter.com/filippofonseca), currently CTO. Mark and Filippo are both originally from San Jose, Costa Rica where they created Safe Labs back in June, 2020. It started as a way for both Mark and Filippo to remotely contribute to the Black Lives Matter cause. 
+
+### Any Questions?
+
+If you have any questions at all, please don't hesitate to reach out. We'd be happy to answer anything!
