@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Safe Labs Press Kt</h1>
+  Safe Labs Press Kit</h1>
 
 ### What exactly is Safe?
 
